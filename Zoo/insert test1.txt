@@ -1,0 +1,2 @@
+﻿INSERT INTO Animals VALUES(1,'lion','messi',2.6,'m')
+SELECT * FROM Animals

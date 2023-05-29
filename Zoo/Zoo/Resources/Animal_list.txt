@@ -1,0 +1,11 @@
+Li Lion 3 Meat m 3.4
+fofa Elephant 6 Branches and leaves f 5
+lola Alligator 1 Fish and mammals f
+po Peacock 5 Insects m
+dor Lion 10 Meat female 5
+dor Lion 10 Meat female 5
+yona Elephant 60 Branches and leaves female 1
+yona Elephant 60 Branches and leaves female 1
+shakon Peacock 8 Insects male
+shakon Peacock 8 Insects male
+shaked Elephant 4.2 Branches and leaves female 1
